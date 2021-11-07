@@ -2,6 +2,8 @@
 
 Thematik: An welcher Musik Style interessiert sich ein User in einem online Musik Streaming? (Jazz, HipHop, Acoustic oder Classic)
 
+Anwendung Bibliotheken Pandas,Sklearn( Sklearn.tree, Sklearn.model_selection, Sklearn.metrics) und Algorithmus(DecisionTreeClassifier)
+
 Arbeitsschritte: 
 - Importieren der Daten, bereinigen und splitten in input (Gender = Geschlecht) und output (Genre = Musik Style) Eingabe  
 - Auswählen eines Machine Learning Algorithmus 
